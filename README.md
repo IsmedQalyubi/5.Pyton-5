@@ -1,5 +1,5 @@
 1. Aplikasi Terbilang
-![image](
+![image](https://github.com/IsmedQalyubi/5.Pyton-5/blob/main/aplikasi%20terbilang.PNG) 
 2. Emoji Converter
 ![image](
 Hasilnya:
