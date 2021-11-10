@@ -7,7 +7,7 @@ Hasilnya:
 3. Fungsi
 ![image](https://github.com/IsmedQalyubi/5.Pyton-5/blob/main/fungsi.PNG) 
 4. Parameter Fungsi
-![image](
+![image](https://github.com/IsmedQalyubi/5.Pyton-5/blob/main/parameter%20fungsi.PNG) 
 5. Keyword Argument
 ![image](
 6. Return Value
