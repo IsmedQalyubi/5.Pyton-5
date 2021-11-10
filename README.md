@@ -3,7 +3,7 @@
 2. Emoji Converter
 ![image](https://github.com/IsmedQalyubi/5.Pyton-5/blob/main/IMG_20211110_103445.jpg) 
 Hasilnya:
-![image](
+![image](https://github.com/IsmedQalyubi/5.Pyton-5/blob/main/IMG_20211110_103427.jpg) 
 3. Fungsi
 ![image](
 4. Parameter Fungsi
