@@ -11,4 +11,4 @@ Hasilnya:
 5. Keyword Argument
 ![image](https://github.com/IsmedQalyubi/5.Pyton-5/blob/main/keyword%20argument.PNG) 
 6. Return Value
-![image](
+![image](https://github.com/IsmedQalyubi/5.Pyton-5/blob/main/return%20value.PNG) 
