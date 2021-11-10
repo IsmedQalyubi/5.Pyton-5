@@ -9,6 +9,6 @@ Hasilnya:
 4. Parameter Fungsi
 ![image](https://github.com/IsmedQalyubi/5.Pyton-5/blob/main/parameter%20fungsi.PNG) 
 5. Keyword Argument
-![image](
+![image](https://github.com/IsmedQalyubi/5.Pyton-5/blob/main/keyword%20argument.PNG) 
 6. Return Value
 ![image](
